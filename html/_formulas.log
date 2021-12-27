@@ -1,0 +1,592 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=latex 2021.12.23)  27 DEC 2021 20:41
+entering extended mode
+**./_formulas.tex
+(_formulas.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (E:\01Apps\06Documents\05MikTex\tex/latex/bas
+e\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(E:\01Apps\06Documents\05MikTex\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (E:\01Apps\06Documents\05MikTex\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (E:\01Apps\06Documents\05MikTex\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+(E:\01Apps\06Documents\05MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+(E:\01Apps\06Documents\05MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (E:\01Apps\06Documents\05MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(E:\01Apps\06Documents\05MikTex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (E:\01Apps\06Documents\05MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 107.
+(E:\01Apps\06Documents\05MikTex\tex/latex/graphics-def\dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+\epsfxsize=\dimen141
+\epsfysize=\dimen142
+) (E:\01Apps\06Documents\05MikTex\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (E:\01Apps\06Documents\05MikTex\tex/latex/newunicodechar\newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+)
+
+Package newunicodechar Warning: Redefining Unicode character on input line 7.
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 8.
+
+(E:\01Apps\06Documents\05MikTex\tex/latex/l3backend\l3backend-dvips.def
+File: l3backend-dvips.def 2021-08-04 L3 backend support: dvips
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count190
+\l__pdf_backend_content_box=\box51
+\l__pdf_backend_model_box=\box52
+\g__pdf_backend_annotation_int=\count191
+\g__pdf_backend_link_int=\count192
+\g__pdf_backend_link_sf_int=\count193
+)
+No file _formulas.aux.
+\openout1 = `_formulas.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+[1
+
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+! Undefined control sequence.
+l.60 \[ \Vert v - w \Vert \leqslant
+                                    p\,\min(\Vert v\Vert, \Vert w\Vert). \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[17] [18]
+! Undefined control sequence.
+l.66 \[ \Vert v \Vert \leqslant
+                                p\,\vert x\vert. \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[19]
+! Undefined control sequence.
+l.69 \[ \Vert v \Vert \leqslant
+                                p\,\Vert w\Vert. \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+[36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
+
+! LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \[ \begin{bmatrix}
+                         u & v \\ -v & u \end{bmatrix} \]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.159 \[ \begin{bmatrix} u &
+                             v \\ -v & u \end{bmatrix} \]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.159 \[ \begin{bmatrix} u & v \\ -v &
+                                       u \end{bmatrix} \]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 ...in{bmatrix} u & v \\ -v & u \end{bmatrix}
+                                                   \]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[50] [51] [52] [53]
+
+! LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 $ \begin{bmatrix}
+                        u & v \\ -v & u \end{bmatrix} $
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.171 $ \begin{bmatrix} u &
+                            v \\ -v & u \end{bmatrix} $
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.171 $ \begin{bmatrix} u & v \\ -v &
+                                      u \end{bmatrix} $
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 ...in{bmatrix} u & v \\ -v & u \end{bmatrix}
+                                                   $
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69]
+[70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]
+[86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [10
+1] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114
+] [115] [116] [117] [118]
+
+! LaTeX Error: Environment align* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.366 \begin{align*}
+                     \frac{1}{n} \sum_{i=1}^n \vert\vert y_i - (c\mathbf{R}x...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.366 \begin{align*} \frac{1}{n}
+                                 \sum_{i=1}^n \vert\vert y_i - (c\mathbf{R}x...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \over #2}
+                                               
+l.366 \begin{align*} \frac{1}{n}
+                                 \sum_{i=1}^n \vert\vert y_i - (c\mathbf{R}x...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \begin{document} ended by \end{align*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.366 ...+ \mathbf{t}) \vert\vert_2^2 \end{align*}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.366 ...+ \mathbf{t}) \vert\vert_2^2 \end{align*}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.366 ...+ \mathbf{t}) \vert\vert_2^2 \end{align*}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[119]
+! Undefined control sequence.
+l.369 $ \Sigma_{\mathbf{x}\mathbf{y}} \in \mathbb
+                                                 {R}^{d \times d} $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[120] [121] [122] [123] [124] [125] [126]
+! Undefined control sequence.
+l.390 $ \mathbf{x} = \left( x_1, \hdots
+                                       , x_n \right) $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[127]
+! Undefined control sequence.
+l.393 $ \mathbf{y} = \left( y_1, \hdots
+                                       , y_n \right) $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[128] [129]
+
+! LaTeX Error: Environment align* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 \begin{align*}
+                     T = \begin{bmatrix} c\mathbf{R} & \mathbf{t} \\ \mathbf...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 \begin{align*} T = \begin{bmatrix}
+                                         c\mathbf{R} & \mathbf{t} \\ \mathbf...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \mathbf allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 \begin{align*} T = \begin{bmatrix} c\mathbf
+                                                 {R} & \mathbf{t} \\ \mathbf...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.399 ...align*} T = \begin{bmatrix} c\mathbf{R} &
+                                                   \mathbf{t} \\ \mathbf{0} ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \mathbf allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 ...T = \begin{bmatrix} c\mathbf{R} & \mathbf
+                                                  {t} \\ \mathbf{0} & 1 \end...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \mathbf allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 ...trix} c\mathbf{R} & \mathbf{t} \\ \mathbf
+                                                  {0} & 1 \end{bmatrix} \end...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.399 ... c\mathbf{R} & \mathbf{t} \\ \mathbf{0} &
+                                                   1 \end{bmatrix} \end{align*}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 ...mathbf{t} \\ \mathbf{0} & 1 \end{bmatrix}
+                                                   \end{align*}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{align*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.399 ...\mathbf{0} & 1 \end{bmatrix} \end{align*}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [
+143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154]
+! Undefined control sequence.
+l.474 $ B = \left ( \begin{array}{cc} \text
+                                           {this}_{pp} & \text{this}_{pq} \\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.474 ...begin{array}{cc} \text{this}_{pp} & \text
+                                                  {this}_{pq} \\ (\text{this...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.474 ...t{this}_{pp} & \text{this}_{pq} \\ (\text
+                                                  {this}_{pq})^* & \text{thi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.474 ...his}_{pq} \\ (\text{this}_{pq})^* & \text
+                                                  {this}_{qq} \end{array} \r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[155] [156] [157] [158]
+! Undefined control sequence.
+l.486 $ B = \left ( \begin{array}{cc} \text
+                                           {*this.row}(p) \\ \text{*this.row...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \text 
+                      
+l.486 ...n{array}{cc} \text{*this.row}(p) \\ \text
+                                                  {*this.row}(q) \end{array}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[159]
+! Undefined control sequence.
+l.489 $ B = \left ( \begin{array}{cc} \text
+                                           {*this.col}(p) & \text{*this.col}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.489 ...in{array}{cc} \text{*this.col}(p) & \text
+                                                  {*this.col}(q) \end{array}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[160] [161] [162] [163]
+! Undefined control sequence.
+l.501 $ \vert pivot \vert \leqslant
+                                    threshold \times \vert maxpivot \vert $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[164] [165]
+
+! LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.507 ...mathbf{P} = \mathbf{Q} \, \begin{bmatrix}
+                                                   \mathbf{T} & \mathbf{0} \...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.507 ...mathbf{Q} \, \begin{bmatrix} \mathbf{T} &
+                                                   \mathbf{0} \\ \mathbf{0} ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.507 ...} \mathbf{T} & \mathbf{0} \\ \mathbf{0} &
+                                                   \mathbf{0} \end{bmatrix} ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.507 ... \\ \mathbf{0} & \mathbf{0} \end{bmatrix}
+                                                   \, \mathbf{Z} \]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176]
+! Undefined control sequence.
+l.540 $ \vert singular value \vert \leqslant
+                                             threshold \times \vert max sing...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[177] [178] (_formulas.aux) ) 
+Here is how much of TeX's memory you used:
+ 921 strings out of 478928
+ 14883 string characters out of 2859151
+ 307715 words of memory out of 3000000
+ 18830 multiletter control sequences out of 15000+600000
+ 404357 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,80p,230b,100s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on _formulas.dvi (178 pages, 21352 bytes).
